@@ -8169,10 +8169,10 @@ vue-template-es2015-compiler@^1.9.0:
   resolved "https://registry.yarnpkg.com/vue-template-es2015-compiler/-/vue-template-es2015-compiler-1.9.1.tgz#1ee3bc9a16ecbf5118be334bb15f9c46f82f5825"
   integrity sha512-4gDntzrifFnCEvyoO8PqyJDmguXgVPxKiIxrBKjIowvL9l+N66196+72XVYR8BBf1Uv1Fgt3bGevJ+sEmxfZzw==
 
-vue-ueditor-wrap@^3.0.2:
-  version "3.0.2"
-  resolved "https://registry.npm.taobao.org/vue-ueditor-wrap/download/vue-ueditor-wrap-3.0.2.tgz#ecc7354b87b33a4d67eeeb73c753b830a79dbbb0"
-  integrity sha1-7Mc1S4ezOk1n7utzx1O4MKedu7A=
+vue-ueditor-wrap@^3.0.3:
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/vue-ueditor-wrap/-/vue-ueditor-wrap-3.0.3.tgz#e7c1b0c827147c07bf168ed352f5ee47a484abf6"
+  integrity sha512-BZSIuY0EL50N3V6oR8qU13fq+uc/M/BZ4EM1PqxMeEgUCUiNoRgl92oskK8yprMUtKJ05XrkmUFxKxsxKs+jjA==
   dependencies:
     "@babel/runtime" "7.x"
 
